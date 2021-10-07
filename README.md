@@ -1,11 +1,21 @@
-<h1 align="center">It's Bishal Chettri</h1>
-<h3 align="center">CS Undergrad at SMIT</h3>
+<h1 align="center">It's 🅱ishal Chettri</h1>
+<h3 align="center">⚙ CS Undergrad at SMIT 🌡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bistimulus&label=Profile%20views&color=0e75b6&style=flat" alt="bistimulus" /> </p>
 
+- 🔶 **bistimulus☢**
+
+- 🔸 **Programming 🔋**
+
 - 🌱 I’m currently improving my **problem solving skills🎳**
 
+- 🔸 **Actively in process 🚦⚡**
+
 - 📝 I share my articles at [https://bishalin.blogspot.com/](https://bishalin.blogspot.com/)
+
+- 🔸 **Reading 🏮**
+
+- 🔸 **Learning new things 💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
