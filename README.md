@@ -11,11 +11,15 @@
 
 - 🔸 **Actively in process 🚦⚡**
 
-- 📝 I share my articles at [https://bishalin.blogspot.com/](https://bishalin.blogspot.com/)
+- 📌 I share my blogs at [https://bishalin.blogspot.com/](https://bishalin.blogspot.com/)
 
 - 🔸 **Reading 🏮**
 
 - 🔸 **Learning new things 💡**
+
+- 📌 [0️⃣3️⃣ 0️⃣3️⃣](0️⃣3️⃣ 0️⃣3️⃣)
+
+- 📌 **0️⃣1️⃣ 1️⃣2️⃣ 2️⃣0️⃣0️⃣1️⃣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
